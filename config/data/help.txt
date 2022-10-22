@@ -1,0 +1,27 @@
+|=====| HOW TO USE THIS TOOL |=====|
+
+There Are Two Ways To Use This Tool
+
+1) Normal Method :-
+    
+      Syntax : python3 nmap_web.py 
+      
+  And Enjoy The Tool
+
+2) Direct Method :- 
+     
+      Syntax : python3 nmap_web.py [ OPTIONS ]
+   
+   [OPTIONS] :
+    
+    -h , --help     For Help
+     
+    -u , --update   For Update 
+    
+    * Now All Nmap Flags Are Working 
+    
+    For Example:
+    -sT , -sV , -Pn , -sC
+
+
+
